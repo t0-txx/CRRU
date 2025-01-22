@@ -1,0 +1,13 @@
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\bin\Debug\CRRU.exe.config
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\bin\Debug\CRRU.exe
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\bin\Debug\CRRU.pdb
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.csproj.AssemblyReference.cache
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.Properties.Resources.resources
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.csproj.GenerateResource.cache
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.csproj.CoreCompileInputs.cache
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.exe
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.pdb
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.CRRU.resources
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.inputBox.resources
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.Form1.resources
+F:\CSP1006-AA-การโปรแกรมคอมพิวเตอร์ 2\CRRU\CRRU\obj\Debug\CRRU.csproj.SuggestedBindingRedirects.cache
